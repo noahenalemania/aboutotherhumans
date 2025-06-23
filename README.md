@@ -1,6 +1,6 @@
 # aboutotherhumans
 
-# Hi, I'm noah 🌿
+Hi, I'm noah 🌿
 
 🎓 Young mind exploring the this world.
 
