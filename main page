@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>about other humans</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>about other humans</h1>
+    <p>Audio • Photography • Essays</p>
+  </header>
+
+  <main>
+    <section>
+      <h2> Report</h2>
+      <article>
+        <h3>sometimes an apple does fall far from the trunk</h3>
+        <p>A portrait of a German apple farmer in the coastal uruguay</p>
+        <audio controls src="media/audio-report.mp3"></audio>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>
